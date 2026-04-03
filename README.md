@@ -22,11 +22,7 @@ The Random Forest model achieved the highest performance, demonstrating the bene
 - Data cleaning (handling missing values)
 - Feature scaling
 - Model comparison
-- Evaluation using:
-  - Accuracy
-  - Precision
-  - Recall
-  - F1-score
+- Evaluation using accuracy, precision, recall, and F1-score
 - Results saved as CSV
 - Visualisation of model performance
 
